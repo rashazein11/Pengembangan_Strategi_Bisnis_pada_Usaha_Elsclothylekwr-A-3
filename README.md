@@ -23,7 +23,7 @@ Laporan ini disusun untuk memenuhi progres **Projek Mata Kuliah Kewirausahaan (A
 ## 🔗 Link Projek
 
 - **Google Drive:** 
-- **Canva:** 
+- **Canva:** https://canva.link/9jinrik6ekifamu
 - **Google Docs:** https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk 
 
 ---
@@ -235,7 +235,7 @@ Kelompok tidak hanya membuat website, tetapi menggunakan teknologi sebagai **ala
 ## Dokumentasi Projek
 
 - **Laporan:** Google Docs https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk
-- **Presentasi:** Canva
+- **Presentasi:** Canva https://canva.link/9jinrik6ekifamu
 - **Dokumentasi/File Projek:** Google Drive
 
 ---
