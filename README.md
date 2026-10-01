@@ -79,26 +79,35 @@ Wawancara dilakukan kepada lima pihak yang berhubungan langsung dengan kegiatan 
 **Owner Elsclothyle** digunakan sebagai pihak validasi terhadap masalah yang ditemukan dan strategi yang akan dikembangkan.
 
 ### Pertanyaan Wawancara
-(isi pertanyaan wawancara sesuai laporan - elsa)
+1. **Host Live:** Apa kesulitan yang paling sering kamu alami saat melakukan live selling?
+2. **Admin Chat:** Apa kendala yang paling sering kamu alami saat melayani chat customer?
+3. **Packing:** Apa kesulitan yang kamu alami saat melakukan proses packing pesanan?
+4. **Kurir/Pengiriman:** Apa kendala yang biasanya terjadi saat mengantarkan barang belanjaan ke Elsclothyle?
+5. **Customer:** Apa kesulitan yang biasanya kamu alami saat membeli produk Elsclothyle, terutama saat live?
 
 ---
-(hasilnya isi sesuai laporan - elsa)
+
 ## Hasil Wawancara 
 
 ### Host Live
 
+Kesulitan mengetahui stok barang saat live. Customer sering menanyakan kode, warna, dan ukuran sehingga host harus bertanya kembali kepada admin untuk memastikan stok.
 
 ### Admin Chat
 
+Chat customer sering masuk bersamaan dengan pertanyaan berulang mengenai ukuran, warna, harga, stok, dan cara pemesanan. Admin juga harus mengecek stok terlebih dahulu dan mengecek pesanan dari beberapa platform satu per satu.
 
 ### Packing
 
+Saat pesanan banyak, terdapat risiko salah mengambil ukuran, warna, atau kode barang. Packing harus melakukan pengecekan satu per satu agar barang tidak tertukar.
 
 ### Kurir/Pengiriman
 
+Barang dari supplier perlu dicek kembali ketika datang, terutama jika jumlahnya banyak. Data dan alamat pengiriman juga perlu dipastikan agar barang dapat dikirim dengan benar.
 
 ### Customer
 
+Customer terkadang kesulitan mendapatkan barang yang diinginkan karena stok terbatas. Customer juga harus bertanya mengenai ketersediaan warna dan ukuran, terutama ketika live sedang ramai.
 
 ---
 
