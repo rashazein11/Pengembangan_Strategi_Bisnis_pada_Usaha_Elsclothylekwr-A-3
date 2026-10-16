@@ -223,6 +223,25 @@ Kelompok tidak hanya membuat website, tetapi menggunakan teknologi sebagai **ala
 
 ---
 
+## Sistem Monetasi 
+
+Monetisasi
+Monetisasi utama (dampak langsung ke usaha):
+Penjualan naik: informasi stok yang cepat membuat customer lebih yakin
+checkout saat live dan tidak lama menunggu balasan chat.
+Biaya turun: kesalahan ukuran, warna, dan kode berkurang, sehingga
+retur, kirim ulang, dan waktu pengecekan manual ikut berkurang.
+
+Pengembangan lanjutan (pendapatan tambahan):
+Fitur katalog dan pre-order untuk penjualan di luar sesi live.
+Layanan sistem stok untuk UMKM fashion lain (langganan bulanan atau
+biaya setup).
+Indikator keberhasilan:
+Omzet per sesi live, jumlah retur, waktu cek stok, dan repeat order
+customer.
+
+---
+
 ## Kontribusi Kelompok
 
 | No. | Nama | NPM | Kontribusi |
