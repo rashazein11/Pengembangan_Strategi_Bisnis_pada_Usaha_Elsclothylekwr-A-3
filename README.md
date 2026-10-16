@@ -236,20 +236,7 @@ Kelompok tidak hanya membuat website, tetapi menggunakan teknologi sebagai **ala
 ## Dokumentasi Projek
 
 - **Laporan:** Google Docs https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk
-- **Presentasi:** Canva https://canva.link/9jinrik6ekifamu
+- **Presentasi:** [drive](https://drive.google.com/drive/folders/1fAETcaLdRFaDfGEX1EnkFQKeETz4_MV-?usp=sharing)
 - **Dokumentasi/File Projek:** Google Drive
 
 ---
-
-## Status Projek
-
-- [x] Menentukan objek usaha
-- [x] Menentukan narasumber
-- [x] Melakukan wawancara
-- [x] Menganalisis hasil wawancara
-- [x] Menentukan masalah utama sementara
-- [ ] Validasi masalah kepada owner
-- [ ] Menentukan strategi final
-- [ ] Pengembangan solusi
-- [ ] Pengujian solusi
-- [ ] Evaluasi hasil
