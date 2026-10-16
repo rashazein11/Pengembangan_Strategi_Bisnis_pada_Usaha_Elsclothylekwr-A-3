@@ -24,7 +24,7 @@ Laporan ini disusun untuk memenuhi progres **Projek Mata Kuliah Kewirausahaan (A
 ### Link Wawancara Terdapat DI Google Drive
 
 - **Google Drive:** : https://drive.google.com/drive/folders/1l9HxecyrA1vsX_SwUmPgX4mTaRQPAwB-
-- **Google Drive:** : [https://canva.link/9jinrik6ekifamu](https://drive.google.com/drive/folders/1fAETcaLdRFaDfGEX1EnkFQKeETz4_MV-?usp=sharing)
+- **Google Drive:** : (https://drive.google.com/drive/folders/1fAETcaLdRFaDfGEX1EnkFQKeETz4_MV-?usp=sharing)
 - **Google Docs:** https://docs.google.com/document/d/1edbMe8-qEBvCAVntM3VigOk1SkZz0f0W7y7ZwwirqR4/edit?usp=drivesdk 
 
 ---
