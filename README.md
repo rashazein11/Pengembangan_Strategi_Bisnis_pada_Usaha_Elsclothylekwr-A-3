@@ -259,3 +259,104 @@ customer.
 - **Dokumentasi/File Projek:** Google Drive
 
 ---
+
+## Persyaratan
+
+Sebelum menjalankan website, pastikan sudah tersedia:
+
+- XAMPP
+- Visual Studio Code
+- Web browser (Google Chrome atau browser lainnya)
+- Database MySQL Elsclothyle
+
+## Cara Menjalankan Website
+
+### 1. Pindahkan Folder Website
+
+Cari folder proyek dengan nama `elsclothyle`.
+
+Pindahkan folder tersebut ke direktori:
+
+```text
+C:\xampp\htdocs\
+```
+
+Pastikan lokasi folder menjadi:
+
+```text
+C:\xampp\htdocs\elsclothyle
+```
+
+### 2. Jalankan XAMPP
+
+1. Buka aplikasi XAMPP Control Panel.
+2. Klik **Start** pada Apache.
+3. Klik **Start** pada MySQL.
+4. Pastikan keduanya berjalan dengan status aktif.
+
+### 3. Periksa Folder dan Kode Program
+
+1. Buka folder `elsclothyle` menggunakan Visual Studio Code.
+2. Pastikan folder dan file website sudah lengkap.
+3. Pastikan tidak ada kesalahan penulisan kode yang menyebabkan website gagal dijalankan.
+
+### 4. Siapkan Database
+
+1. Buka browser dan akses [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
+2. Pastikan database bernama `elsclothyle` sudah tersedia.
+3. Jika database belum tersedia, impor file database proyek yang disediakan ke phpMyAdmin.
+4. Pastikan konfigurasi database pada `config.php` sesuai dengan pengaturan MySQL di komputer.
+
+### 5. Buka Website
+
+Setelah Apache dan MySQL aktif, buka browser dan akses alamat berikut:
+
+**Halaman Pelanggan:**
+
+[http://localhost/elsclothyle](http://localhost/elsclothyle)
+
+Digunakan untuk melihat produk, memasukkan produk ke keranjang, melakukan checkout, dan simulasi pembayaran.
+
+**Halaman Admin:**
+
+[http://localhost/elsclothyle/admin](http://localhost/elsclothyle/admin)
+
+Digunakan untuk login admin, mengelola produk, mengelola stok, dan melihat daftar pesanan.
+
+## Akun Login Admin
+
+| Keterangan | Informasi |
+|---|---|
+| Username | admin |
+| Password | kelompok3 |
+
+## Fitur Website
+
+### Halaman Pelanggan
+
+- Melihat daftar produk.
+- Melihat detail produk.
+- Memilih ukuran dan warna produk.
+- Menambahkan produk ke keranjang.
+- Registrasi dan login pelanggan.
+- Melakukan checkout.
+- Memilih metode pembayaran QRIS, GoPay, dan Transfer Bank (simulasi).
+- Melihat simulasi pembayaran.
+
+### Halaman Admin
+
+- Login admin.
+- Melihat dashboard.
+- Menambahkan produk.
+- Mengelola produk.
+- Mengelola ukuran, warna, dan stok.
+- Melihat daftar pesanan pelanggan.
+- Melihat status pembayaran.
+
+## Catatan
+
+- Website dijalankan secara lokal menggunakan XAMPP.
+- Apache dan MySQL harus aktif selama website digunakan.
+- Pembayaran QRIS, GoPay, dan Transfer Bank hanya berupa simulasi untuk keperluan proyek, bukan transaksi uang sungguhan.
+- Jangan menghapus folder atau file database yang dibutuhkan oleh website.
+- Jika website tidak dapat dibuka, periksa kembali apakah Apache dan MySQL sudah aktif serta folder proyek berada di dalam `htdocs`.
