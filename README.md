@@ -264,10 +264,10 @@ customer.
 
 Sebelum menjalankan website, pastikan sudah tersedia:
 
-- XAMPP
-- Visual Studio Code
+- XAMPP (wajib)
+- Visual Studio Code (wajib)
 - Web browser (Google Chrome atau browser lainnya)
-- Database MySQL Elsclothyle
+- Database MySQL Elsclothyle (tersedia digrup)
 
 ## Cara Menjalankan Website
 
@@ -357,6 +357,9 @@ Digunakan untuk login admin, mengelola produk, mengelola stok, dan melihat dafta
 
 - Website dijalankan secara lokal menggunakan XAMPP.
 - Apache dan MySQL harus aktif selama website digunakan.
+- Pembayaran QRIS, GoPay, dan Transfer Bank hanya berupa simulasi untuk keperluan proyek, bukan transaksi uang sungguhan.
+- Jangan menghapus folder atau file database yang dibutuhkan oleh website.
+- Jika website tidak dapat dibuka, periksa kembali apakah Apache dan MySQL sudah aktif serta folder proyek berada di dalam `htdocs`.
 - Pembayaran QRIS, GoPay, dan Transfer Bank hanya berupa simulasi untuk keperluan proyek, bukan transaksi uang sungguhan.
 - Jangan menghapus folder atau file database yang dibutuhkan oleh website.
 - Jika website tidak dapat dibuka, periksa kembali apakah Apache dan MySQL sudah aktif serta folder proyek berada di dalam `htdocs`.
