@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #292524;
+    background: #fff;
+}
+
+/* Navbar */
+.navbar {
+    height: 75px;
+    padding: 0 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #292524;
+    text-decoration: none;
+}
+
+.logo span {
+    color: #a47768;
+}
+
+.navbar nav {
+    display: flex;
+    gap: 35px;
+}
+
+.navbar nav a,
+.cart {
+    text-decoration: none;
+    color: #292524;
+    font-size: 14px;
+}
+
+.navbar nav a:hover {
+    color: #a47768;
+}
+
+/* Hero */
+.hero {
+    min-height: 480px;
+    padding: 80px 10%;
+    display: flex;
+    align-items: center;
+    background: #eee7e1;
+}
+
+.hero-content {
+    max-width: 500px;
+}
+
+.subtitle {
+    color: #a47768;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+.hero h1 {
+    font-size: 58px;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+
+.hero-content > p:not(.subtitle) {
+    color: #6b625d;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background: #292524;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.btn:hover {
+    background: #a47768;
+}
+
+/* Produk */
+.products {
+    padding: 80px 8%;
+}
+
+.section-heading {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.section-heading h2 {
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.section-heading > p:last-child {
+    color: #777;
+}
+
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+}
+
+.product-card {
+    border: 1px solid #eee;
+    background: white;
+}
+
+.product-card img,
+.no-image {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+}
+
+.no-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f2efec;
+    color: #888;
+}
+
+.product-info {
+    padding: 20px;
+}
+
+.category {
+    color: #a47768;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.product-info h3 {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+.price {
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+.detail-btn {
+    display: inline-block;
+    padding: 10px 18px;
+    background: #292524;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.empty-product {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px;
+    color: #777;
+}
+
+/* About */
+.about {
+    padding: 65px 10%;
+    text-align: center;
+    background: #f5f0ec;
+}
+
+.about h2 {
+    margin-bottom: 15px;
+}
+
+.about p {
+    color: #6b625d;
+    line-height: 1.8;
+}
+
+/* Footer */
+footer {
+    padding: 25px;
+    text-align: center;
+    background: #292524;
+    color: white;
+    font-size: 13px;
+}
+
+/* Tampilan HP */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0 5%;
+    }
+
+    .navbar nav {
+        gap: 12px;
+    }
+
+    .navbar nav a {
+        font-size: 12px;
+    }
+
+    .hero h1 {
+        font-size: 42px;
+    }
+
+    .product-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        height: auto;
+        padding: 20px;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    .product-list {
+        grid-template-columns: 1fr;
+    }
+}
